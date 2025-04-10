@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiadSuman
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML5 & CSS3
+- 👀 I’m interested in Manual Testing
+- 🌱 I’m currently working as SQA Engineer at Suffix IT Ltd.
 - 📫 Mail me to reach.... riyadsumon553@gmail.com
 
 <!---
